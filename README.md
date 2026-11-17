@@ -1,3 +1,1 @@
-# EvanSalmun
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/evansalmun/evansalmun/snake-output/snake.svg" alt="Snake animation" />
+https://ghstats.dev/api/card?username=evansalmun&theme=forest
